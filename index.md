@@ -27,7 +27,7 @@ INTRODUCTION
    the money that they invest/save.
  
  - Given below is the link to the app for calculating Compound Interest:
-url  : http://127.0.0.1:4324/
+url  :https://bsarmishta.shinyapps.io/rshiny/
 
 ---
 
